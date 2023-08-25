@@ -15,7 +15,7 @@ Actualmente estoy cursando la carrera de Programación Web | Full Stack en EGG |
 
 - 👀 Me interesan los desafios y mi pasion es el desarrollo del conocimiento.
 - 🌱 Actualmente estoy aprendiendo Frontend.
-- 💞️ Me gustaria colaborar en proyectos donde pueda aportar mi experiencia en trabajo de equipo y a si mismos nutrir mis conocimientos.
+- 💞️ Me gustaria colaborar en proyectos donde pueda aportar mi experiencia en trabajos de equipo y a si mismos nutrir mis conocimientos.
 - 📫 Puedes contactarme por estos canales....👇
 - [Instagram](https://www.instagram.com/juancho_muratto/)
 - 📧 Email: **juanpablomuratto@hotmail.com**
