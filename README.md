@@ -1,19 +1,28 @@
-<h3 - 👋 Hi, I’m Juan Muratto </h3>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ....
+## Hola, bienvenido a mi pagina! 👋😎
+  
+### Mi nombre es Juan 
+
+Actualmente estoy cursando la carrera de Programación Web | Full Stack en EGG | https://egg.live/es-ar/ 🧑 💻 
+
+
+  ```js
+  const JuanMurattoGit = {
+  code (Java, HTML, CSS, JavaScrip),
+  tools(JPA, React ),
+  framework (Bootstrap),
+  }
+  ```
+
+- 👀 Me interesan los desafios y mi pasion es el desarrollo del conocimiento.
+- 🌱 Actualmente estoy aprendiendo Frontend.
+- 💞️ Me gustaria colaborar en proyectos donde pueda aportar mi experiencia en trabajo de equipo y a si mismos nutrir mis conocimientos.
+- 📫 Puedes contactarme por estos canales....👇
+- [Instagram](https://www.instagram.com/juancho_muratto/)
+- 📧 Email: **juanpablomuratto@hotmail.com**
 
 
 
-<h2 align="center"> Estudiante de Programación web 🧑 💻 </h2>
 
-
-
-
-• 👨‍🎓 Estudiando Programación Fullstack en EGG | https://egg.live/es-ar/
-
-• 📧 Email de contacto **juanpablomuratto@hotmail.com**
 
 
 <h2 align="left">Lenguajes y herramientas:</h2>
